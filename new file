@@ -1,1 +1,6 @@
 Testing editing a new file
+---
+- bullet point 1
+- bullet point 2
+- *bullet 3*
+- **bullet 4**
